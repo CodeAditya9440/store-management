@@ -1,0 +1,6 @@
+{
+  "name": "Store Manager",
+  "description": "Shop-friendly retail store manager for daily shift tasks, barcode inventory tracking, low-stock alerts, staff PIN login, offline reliability, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

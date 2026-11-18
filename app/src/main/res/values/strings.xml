@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Store Manager</string>
+    <string name="tagline">Shop Tasks, Stock &amp; Barcode Register</string>
+    <string name="notification_channel_low_stock">Low Stock Alerts</string>
+    <string name="notification_channel_low_stock_desc">Automated alerts when retail inventory drops below reorder threshold</string>
+    <string name="cd_store_hero">Retail store counter and organized shelving banner</string>
+    <string name="cd_empty_tasks">Illustration of organized daily task clipboard</string>
+    <string name="cd_empty_inventory">Illustration of barcode scanner and retail inventory boxes</string>
+    <string name="cd_toggle_torch">Toggle camera flashlight</string>
+    <string name="cd_lock_vault">Switch staff or lock store vault</string>
+    <string name="cd_scan_barcode">Open barcode scanner</string>
+    <string name="cd_add_item">Add new item</string>
+</resources>
